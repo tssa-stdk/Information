@@ -46,7 +46,7 @@ const About = () => {
                             Job: Software Engineer<br />
                             Father Occupation: Business<br />
                             Mother Occupation: Teacher<br />
-                            Brother Occupation: MS<br />
+                            Brother Occupation: Studying <br />
                         </p>
                     </div>
                 </div>
