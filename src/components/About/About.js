@@ -44,6 +44,7 @@ const About = () => {
                             Education: B-Tech(Mechanical Eng)<br />
                             POY: 2019<br />
                             Job: Software Engineer<br />
+                            Company: Tech Mahindra <br />
                             Father Occupation: Business<br />
                             Mother Occupation: Teacher<br />
                             Brother Occupation: Study <br />
