@@ -1,0 +1,27 @@
+.sideling {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 412px;
+    height: 412px;
+    background: black;
+    flex-wrap: wrap;
+    margin-left: 24px;
+}
+
+.sideling .carr {
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 412px;
+    height: 412px;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    text-align: center;
+}
+
+
+
+

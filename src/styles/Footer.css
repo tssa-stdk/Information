@@ -1,0 +1,12 @@
+.footer-container{
+    line-height:30px;
+    width:100%;
+    font-weight:400;
+    text-align: center;
+    color:#FFFF;
+    background: #505050;
+    position:fixed;
+    bottom:0px;
+    padding-right:20px;
+    z-index: 1;
+}
