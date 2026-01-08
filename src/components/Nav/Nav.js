@@ -9,7 +9,7 @@ const Nav = () => {
         <div className="navigation-container">
             <ul>
                 <li><a href='/Information/#/home'>Home</a></li>
-                <li><a href='/Information/#/about'>About</a></li>
+                <li><a href='/Information/#/about'>Bio-data</a></li>
                 <li><a href='/Information/#/photo'>Photo</a></li>
                 <li><a href='/Information/#/contact'>Contact</a></li>
             </ul>
