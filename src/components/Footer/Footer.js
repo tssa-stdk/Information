@@ -5,7 +5,7 @@ const Footer = () => {
 
     return (
         <div className="footer-container">
-            <span>Copyright 2025 © TSSA Infra Project, Inc.</span>
+            <span>Copyright 2026 © TSSA Infra Project, Inc.</span>
         </div>
     )
 }
