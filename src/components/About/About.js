@@ -43,8 +43,9 @@ const About = () => {
                         <p>
                             Education: B-Tech(Mechanical Eng)<br />
                             POY: 2019<br />
-                            Job: Deputy Manager<br />
+                            Job: Deputy Manager(Sr.Software Eng) <br />
                             Company: Vodafone Intelligent Solutions<br />
+                            CTC: 12.46LPA<br />
                             Father Occupation: Business<br />
                             Mother Occupation: Teacher<br />
                             Brother Occupation: Study <br />
