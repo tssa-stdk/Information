@@ -10,8 +10,8 @@ const About = () => {
                     <div>
                         <h2>Family Details</h2>
                         <p>
-                            Suram Name: Mothukuri<br />
-                            Cast: BC-B(Goud's)<br />
+                            Surname: Mothukuri<br />
+                            Caste: BC-B(Goud's)<br />
                             Name: Abishek<br />
                             Father Name: Thirupathi<br />
                             Mother Name: Srilatha<br />
