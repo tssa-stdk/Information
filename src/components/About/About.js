@@ -43,8 +43,8 @@ const About = () => {
                         <p>
                             Education: B-Tech(Mechanical Eng)<br />
                             POY: 2019<br />
-                            Job: Software Engineer<br />
-                            Company: Tech Mahindra <br />
+                            Job: Deputy Manager<br />
+                            Company: Vodafone Intelligent Solutions<br />
                             Father Occupation: Business<br />
                             Mother Occupation: Teacher<br />
                             Brother Occupation: Study <br />
